@@ -1,0 +1,11 @@
+#!/bin/bash
+num=18
+if [ $num -gt 18 ]
+then 
+     echo "do you have an id"
+if [ "$num" == "yes" ]
+     echo "you can enter"
+fi
+else 
+     echo "you need an id to enter"
+fi
